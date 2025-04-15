@@ -1,0 +1,11 @@
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\bin\Debug\net6.0\LineCodeLibrary.deps.json
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\bin\Debug\net6.0\LineCodeLibrary.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\bin\Debug\net6.0\LineCodeLibrary.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.AssemblyInfoInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.AssemblyInfo.cs
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\refint\LineCodeLibrary.dll
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\LineCodeLibrary.pdb
+C:\Users\nasta\Desktop\6 семестр\ТК\LineCode(5,2)\LineCode(5,2)\obj\Debug\net6.0\ref\LineCodeLibrary.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleLineCode/1.0.0": {
+        "dependencies": {
+          "LineCodeLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleLineCode.dll": {}
+        }
+      },
+      "LineCodeLibrary/1.0.0": {
+        "runtime": {
+          "LineCodeLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleLineCode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LineCodeLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
