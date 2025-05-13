@@ -36,15 +36,21 @@ Program - консольный интерфейс
 ⚙️ Установка и запуск
 
 Требования:
+
 .NET 6.0 или новее
 
 Инструкция:
 
 Клонируйте репозиторий:
+
 git clone https://github.com/yourusername/LinearTypeCode-5-2.git
+
 cd LinearTypeCode-5-2
+
 Соберите проект:
+
 dotnet build
 
 Запустите программу:
+
 dotnet run
